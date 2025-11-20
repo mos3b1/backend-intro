@@ -5,7 +5,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mos3b1/backend-intro.git"
+  },
+  "author": "mos3b1",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/mos3b1/backend-intro/issues"
+  },
+  "homepage": "https://github.com/mos3b1/backend-intro#readme"
 }
